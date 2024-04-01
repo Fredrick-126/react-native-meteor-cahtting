@@ -1,6 +1,4 @@
-
-# React-Native-Meteor-Chatting
-# meteor-react-native-chat-example
+# Meteor-react-native-chat-example
 Simple example of live chat through a Meteor server on both iOS and Android with React Native
 
 ***
@@ -38,12 +36,3 @@ Simple example of live chat through a Meteor server on both iOS and Android with
   - [`ddp-client`](https://github.com/hharnisc/node-ddp-client) for establishing a DDP connection with the remote Meteor server and adding to collections server-side
   - [`react-native-vector-icons`](https://github.com/oblador/react-native-vector-icons) for using MaterialIcon fonts as well as other icon fonts; the installation of this package for iOS and Android is distinct, but can easily be implemented through the source project instructions
 
-**** 
-# Contributing
-
-- Feel free to contribute to the project by forking and making a pull request, there are plenty of improvements to be made!
-
-****
-# Shoutouts
-
-- Thanks to [Spencer Carli](https://github.com/spencercarli) for the [`meteor-todos-react-native`](https://github.com/spencercarli/meteor-todos-react-native) repository, which provides a great way of linking Meteor to React Native
